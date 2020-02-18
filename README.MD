@@ -3,7 +3,7 @@
 Este es el resultado de una investigación sobre la cuenca lechera de Tizayuca Hidalgo que contiene 
 las fuentes para la tesis de grado de maestro en sociedades sustentables, titulada
 *Identificando con Big Data, factores para mitigar el cambio climático por
-gestión sustentable de residuos ganaderos *.
+gestión sustentable de residuos ganaderos*.
 
 
 Este proyecto puede utilizarse como base para otras investigaciones que estén
